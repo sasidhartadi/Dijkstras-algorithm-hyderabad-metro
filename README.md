@@ -1,1 +1,1 @@
-# Dijkstras-algoriths-hyderabad-metro
+# Dijkstras-algorithms-hyderabad-metro
